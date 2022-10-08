@@ -7,8 +7,8 @@ export const Navbar = (props) => {
       <div className={styles.item}>
         <div className={styles.callButton}>
           <Image
-            width="32px"
-            height="32px"
+            width="50px"
+            height="50px"
             src="/img/8.png"
             alt="telephone image"
           />
@@ -23,7 +23,7 @@ export const Navbar = (props) => {
           <li className={styles.listItem}>Homepage</li>
           <li className={styles.listItem}>Products</li>
           <li className={styles.listItem}>Menu</li>
-          <Image width="100px" height="100px" src="/img/logo.png" alt="logo" />
+          <Image width="60px" height="60px" src="/img/pizza.png" alt="logo" />
           <li className={styles.listItem}>Events</li>
           <li className={styles.listItem}>Blogs</li>
           <li className={styles.listItem}>Contact</li>
@@ -31,7 +31,7 @@ export const Navbar = (props) => {
       </div>
       <div className={styles.item}>
         <div className={styles.cart}>
-            <Image width="50px" height="50px" src="/img/cart.png" alt="cart image"/>
+            <Image width="40px" height="40px" src="/img/shopping-cart.png" alt="cart image"/>
             <div className={styles.counter}>2</div>
         </div>
       </div>

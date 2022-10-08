@@ -35,7 +35,7 @@ const Featured = () => {
             layout="fill"
             objectFit="contain"
           />
-          ;
+          
         </div>
         <div className={styles.imgContainer} key="1">
           <Image
@@ -44,7 +44,7 @@ const Featured = () => {
             layout="fill"
             objectFit="contain"
           />
-          ;
+          
         </div>
         <div className={styles.imgContainer} key="2">
           <Image
@@ -53,7 +53,7 @@ const Featured = () => {
             layout="fill"
             objectFit="contain"
           />
-          ;
+        
         </div>
       </div>
 
