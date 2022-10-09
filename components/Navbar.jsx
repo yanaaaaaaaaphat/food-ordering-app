@@ -7,8 +7,8 @@ export const Navbar = (props) => {
       <div className={styles.item}>
         <div className={styles.callButton}>
           <Image
-            width="50px"
-            height="50px"
+            width="30px"
+            height="30px"
             src="/img/8.png"
             alt="telephone image"
           />
