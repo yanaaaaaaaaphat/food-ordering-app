@@ -16,11 +16,7 @@ export const Footer = () => {
                 </div>
                 <div className={styles.card}>
                     <h1 className={styles.title}>FIND OUR RESTAURANTS</h1>
-                    <p className={styles.text}>
-                        1654 R. Don Road #304.
-                        <br /> NewYork, 85022
-                        <br /> (602) 867-1010
-                    </p>
+                    
                     <p className={styles.text}>
                         1654 R. Don Road #304.
                         <br /> NewYork, 85022
@@ -58,3 +54,4 @@ export const Footer = () => {
         </div>
     )
 }
+
